@@ -1,9 +1,0 @@
-bridge.png
-castle.png
-grass.png
-player.png
-portal.svg
-road.svg
-rock.svg
-tree.png
-water.svg
